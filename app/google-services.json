@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822123911579",
+    "project_id": "ambani-d4350",
+    "storage_bucket": "ambani-d4350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822123911579:android:d32ef71720f79872b1e93e",
+        "android_client_info": {
+          "package_name": "com.example.ambani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822123911579-ffa9i2ersehivlnmhjk1orrf9n7n51ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxdyWr4UsLeIvQRQjFVB2wHn1WnzYNxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822123911579-ffa9i2ersehivlnmhjk1orrf9n7n51ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
